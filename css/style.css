@@ -2,6 +2,14 @@
   background-color: #3F2E2E;
 }
 
+#row1 {
+  height: 160px;
+}
+
+#row1 img {
+  width: 100px;
+}
+
 #row2 {
   background-color: #DDD7D7;
   border-bottom: 2px solid #8D8686;
