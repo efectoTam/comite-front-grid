@@ -17,3 +17,12 @@
   color: #5C67CD;
   font-weight: bold;
 }
+
+.side-line {
+  color: #696161;
+  padding-bottom: 10px;
+  border-bottom: 1px solid grey;
+}
+.icon-size {
+  width: 17px;
+}
