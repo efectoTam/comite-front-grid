@@ -1,3 +1,19 @@
 #row1 {
   background-color: #3F2E2E;
 }
+
+#row2 {
+  background-color: #DDD7D7;
+  border-bottom: 2px solid #8D8686;
+}
+
+.border-around {
+  border: 1px solid #D3C9C9;
+  padding: 3px;
+  background-color: #ffffff;
+}
+
+.big-image-text {
+  color: #5C67CD;
+  font-weight: bold;
+}
